@@ -1,4 +1,4 @@
-(https://erestecno.com/wp-content/uploads/2019/10/github-logo.jpeg)
+https://erestecno.com/wp-content/uploads/2019/10/github-logo.jpeg
 ### Hi there 👋, I'm Abul Azad
 #### FrontEnd developer || React Developer 
 ![FrontEnd developer || React Developer ]
